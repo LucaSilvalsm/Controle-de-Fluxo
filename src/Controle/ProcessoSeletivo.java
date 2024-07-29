@@ -1,4 +1,4 @@
-package candidatura;
+package Controle;
 
 import java.text.NumberFormat;
 import java.util.ArrayList;
